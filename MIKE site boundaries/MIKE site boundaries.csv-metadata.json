@@ -1,0 +1,93 @@
+{
+  "licenseType": "Custom",
+  "dc:description": "Boundaries of sites monitored by the CITES Monitoring the Illegal Killing of Elephants (MIKE) Programme",
+  "exportable": true,
+  "createdBy": "Julian Blanc",
+  "dc:title": "MIKE site boundaries",
+  "attributionIcon": "https://admin.google.com/a/cpanel/citesmike.org/images/logo-custom.gif",
+  "attribution": "CITES Secretariat / MIKE Programme",
+  "attributionLink": "https://cites.org/eng/prog/mike/",
+  "dc:modified": "2016-03-29T06:37:21Z",
+  "dc:license": "http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US",
+  "dc:identifier": "1gMHluFHQyJkokmOT7ux1RSYUOoxPigqz5LE2UulS",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "description"
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "name"
+    },
+    {
+      "datatype": "string",
+      "name": "col2",
+      "validateData": false,
+      "title": "sitecode"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "designate"
+    },
+    {
+      "datatype": "string",
+      "name": "col4",
+      "validateData": false,
+      "title": "feat_type"
+    },
+    {
+      "datatype": "double",
+      "name": "col5",
+      "validateData": false,
+      "title": "area_sqkm"
+    },
+    {
+      "datatype": "string",
+      "name": "col6",
+      "validateData": false,
+      "title": "subreg"
+    },
+    {
+      "datatype": "string",
+      "name": "col7",
+      "validateData": false,
+      "title": "ccode"
+    },
+    {
+      "datatype": "string",
+      "name": "col8",
+      "validateData": false,
+      "title": "stateprov"
+    },
+    {
+      "datatype": "string",
+      "name": "col9",
+      "validateData": false,
+      "title": "active"
+    },
+    {
+      "datatype": "double",
+      "name": "col10",
+      "validateData": false,
+      "title": "boundaryOK"
+    },
+    {
+      "datatype": "string",
+      "name": "col11",
+      "validateData": false,
+      "title": "notes"
+    },
+    {
+      "datatype": "location",
+      "name": "col12",
+      "validateData": false,
+      "title": "geometry"
+    }
+  ]}
+}

@@ -1,0 +1,173 @@
+{
+  "licenseType": "Creative Commons",
+  "dc:description": "Total number of elephant carcasses and number of illegally killed elephant carcasses encountered at reporting MIKE sites. The proportion of illegally killed elephants (PIKE) can be calculated by dividing illegal by totcarc.",
+  "exportable": true,
+  "createdBy": "Julian Blanc",
+  "dc:title": "Carcasses reported to MIKE by site and year",
+  "attributionIcon": "http://www.cites.org/sites/default/files/eng/prog/mike/images/mike_banner_logo_long.png",
+  "attribution": "CITES MIKE Programme",
+  "attributionLink": "http://cites.org/eng/prog/mike/",
+  "dc:modified": "2016-03-09T06:21:58Z",
+  "dc:identifier": "1juiqNCOUwqperYcoq_uCWaZ5lEs8t09hfRry_I37",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "location",
+      "name": "col0",
+      "validateData": false,
+      "title": "un_region"
+    },
+    {
+      "dc:description": "FC: Central Africa\nFE: Eastern Africa\nFS: Southern Africa\nFW: West Africa\nSE: Southeast Asia\nSS: South Asia",
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "subregionid"
+    },
+    {
+      "dc:description": "ISO 3166-1 country code",
+      "datatype": "string",
+      "name": "col2",
+      "validateData": false,
+      "title": "ccode"
+    },
+    {
+      "datatype": "string",
+      "name": "col3",
+      "validateData": false,
+      "title": "siteid"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "0",
+      "name": "col4",
+      "validateData": true,
+      "title": "year"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "0",
+      "name": "col5",
+      "validateData": false,
+      "title": "totcarc"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "0",
+      "name": "col6",
+      "validateData": true,
+      "title": "illegal"
+    },
+    {
+      "datatype": "double",
+      "name": "col7",
+      "validateData": false,
+      "title": "est"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "###0.#####",
+      "name": "col8",
+      "formula": "illegal/totcarc",
+      "validateData": false,
+      "title": "PIKE"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "###0.#####",
+      "name": "col9",
+      "formula": "illegal/totcarc",
+      "validateData": false,
+      "title": "PIKE"
+    },
+    {
+      "dc:description": "Proportion of illegally killed elephants found",
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "#,##0%",
+      "name": "col10",
+      "formula": "if(totcarc>0.0, illegal/totcarc, 0.0)",
+      "validateData": false,
+      "title": "Avg.PIKE"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "#,##0%",
+      "name": "col11",
+      "formula": "if(totcarc>0.0, illegal/totcarc, 0.0)",
+      "validateData": false,
+      "title": "PIKE"
+    },
+    {
+      "datatype": "string",
+      "name": "col12",
+      "validateData": false,
+      "title": "New column"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "0",
+      "name": "col13",
+      "formula": "totcarc-illegal",
+      "validateData": false,
+      "title": "PIKE"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "#,##0.#####",
+      "name": "col14",
+      "formula": "illegal/totcarc",
+      "validateData": false,
+      "title": "Avg_PIKE"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "#,##0%",
+      "name": "col15",
+      "formula": "if(totcarc>0.0, illegal/totcarc, 0.0)",
+      "validateData": false,
+      "title": "PIKE"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "0",
+      "name": "col16",
+      "formula": "totcarc*2.0",
+      "validateData": false,
+      "title": "Double carc test"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "#,##0%",
+      "name": "col17",
+      "formula": "if(totcarc>0.0, illegal/totcarc, 0.0)",
+      "validateData": false,
+      "title": "pike"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "#,##0%",
+      "name": "col18",
+      "formula": "if(totcarc>0.0, illegal/totcarc, 0.0)",
+      "validateData": false,
+      "title": "PIKE"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "formatPattern": "###0.#####",
+      "name": "col19",
+      "formula": "Expected 3 arguments for 'if' but got 2",
+      "validateData": false,
+      "title": "PIKE"
+    }
+  ]}
+}

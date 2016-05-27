@@ -1,0 +1,88 @@
+{
+  "licenseType": "Creative Commons",
+  "dc:description": "Estimates of the Proportion of Illegally Killed Elephants (PIKE) at subregional level over time. PIKE is calculated as the number of illegally killed elephants found by patrol or other means divided by the total number of dead elephants found. Chart shows PIKE estimates with upper and lower 95% limits. \n\nData dictionary:\n- Subregion: fc = Central Africa; fe = Eastern Africa; fs = Southern Africa; fw = West Africa.\n- estimate: PIKE as estimated using estimated marginal means (aka least squares means) weighted by sample size, with the DoBy package in R. \n- se: standard error of the estimate\n- df: degrees of freedom\n- t.stat: t statistic\n- p.value: p value\n- lwr: lower 95% confidence limit\n- upr: upper 95% confidence limit\n- yr: year\n\n",
+  "createdByLink": "http://ke.linkedin.com/in/julianblanc/en",
+  "exportable": true,
+  "createdBy": "Julian Blanc",
+  "dc:title": "PIKE: Subregional trends",
+  "attributionIcon": "http://www.cites.org/sites/default/files/eng/prog/mike/images/mike_banner_logo_long.png",
+  "attribution": "CITES MIKE Programme",
+  "attributionLink": "http://www.cites.org/eng/prog/mike/",
+  "dc:modified": "2016-03-03T05:58:55Z",
+  "dc:identifier": "1Q-Kl4PcUJNe_a466-v9wlrJbKzczSnRGbwsWLnGc",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "double",
+      "name": "col0",
+      "validateData": false
+    },
+    {
+      "datatype": "string",
+      "name": "col1",
+      "validateData": false,
+      "title": "subregion"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "###0.#####",
+      "name": "col2",
+      "validateData": false,
+      "title": "estimate"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "###0.#####",
+      "name": "col3",
+      "validateData": false,
+      "title": "se"
+    },
+    {
+      "datatype": "double",
+      "name": "col4",
+      "validateData": false,
+      "title": "df"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "###0.#####",
+      "name": "col5",
+      "validateData": false,
+      "title": "t.stat"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "#E0",
+      "name": "col6",
+      "validateData": false,
+      "title": "p.value"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "###0.#####",
+      "name": "col7",
+      "validateData": false,
+      "title": "lwr"
+    },
+    {
+      "datatype": "double",
+      "formatPattern": "###0.#####",
+      "name": "col8",
+      "validateData": false,
+      "title": "upr"
+    },
+    {
+      "datatype": "double",
+      "name": "col9",
+      "validateData": false,
+      "title": "yr"
+    },
+    {
+      "datatype": "double",
+      "formulaValid": true,
+      "name": "col10",
+      "formula": "0.5",
+      "validateData": false,
+      "title": "Sust_limit"
+    }
+  ]}
+}
