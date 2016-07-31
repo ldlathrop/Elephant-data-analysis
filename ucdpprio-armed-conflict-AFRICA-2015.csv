@@ -1,0 +1,151 @@
+ConflictId,Year,Location,SideA,SideA2nd,SideB,SideBID,SideB2nd,Incompatibility,TerritoryName,IntensityLevel,CumulativeIntensity,TypeOfConflict,StartDate,StartPrec,StartDate2,StartPrec2,EpEnd,EpEndDate,EpEndPrec,GWNoA,GWNoA2nd,GWNoB,GWNoB2nd,GWNoLoc,Region,Version
+1-219,1995,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1994-12-31,5,1,1995-12-31,5,530,,,,530,4,4.0-2015
+1-212,1995,Niger,Government of Niger,,FDR,1395,,1,Eastern Niger,1,0,3,1995-03-23,1,1995-07-10,1,1,1995-07-10,1,436,,,,436,4,4.0-2015
+1-180,1995,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,0,3,1988-12-31,3,1995-04-27,1,1,1995-12-01,4,433,,,,433,4,4.0-2015
+1-118,1995,Uganda,Government of Uganda,,LRA,1336,,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-210,1996,"Cameroon, Nigeria",Government of Cameroon,,Government of Nigeria,475,,1,Bakassi,1,0,2,1994-02-18,1,1996-05-07,3,1,1996-05-07,3,471,,475,,"471, 475",4,4.0-2015
+1-86,1996,DR Congo (Zaire),Government of DR Congo (Zaire) ,,AFDL,1268,Government of Rwanda,2,,2,1,4,1964-01-18,1,1996-10-19,1,0,,,490,,,517,490,4,4.0-2015
+1-133,1996,Ethiopia,Government of Ethiopia,,"AIAI, ONLF","1394, 1346",,1,Ogaden,1,1,3,1964-01-11,2,1996-08-09,2,1,1996-12-31,5,530,,,,530,4,4.0-2015
+1-168,1996,Ethiopia,Government of Ethiopia,,ARDUF,1372,,1,Afar,1,0,3,1975-06-30,3,1996-12-31,5,1,1996-12-31,5,530,,,,530,4,4.0-2015
+1-179,1996,Rwanda,Government of Rwanda,,ALiR,2013,,2,,1,1,3,1990-10-01,1,1996-07-12,1,0,,,517,,,,517,4,4.0-2015
+1-118,1996,Uganda,Government of Uganda,,"ADF, LRA, WNBF","1337, 1336, 1338",,2,,2,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,1997,Chad,Government of Chad,,"FARF, MDD","1297, 1292",,2,,1,1,3,1966-07-31,4,1997-10-30,1,0,,,483,,,,483,4,4.0-2015
+1-86,1997,DR Congo (Zaire),Government of DR Congo (Zaire) ,,AFDL,1268,"Government of Angola, Government of Rwanda, Government of Uganda",2,,2,1,4,1964-01-18,1,1996-10-19,1,0,,,490,,,"540, 517, 500",490,4,4.0-2015
+1-130,1997,Eritrea,Government of Eritrea,,EIJM - AS,1343,,2,,1,0,3,1993-12-16,1,1997-06-30,5,1,1997-06-30,5,531,,,,531,4,4.0-2015
+1-255,1997,Niger,Government of Niger,,UFRA,1378,,2,,1,0,3,1991-10-25,1,1997-10-19,1,1,1997-11-28,1,436,,,,436,4,4.0-2015
+1-179,1997,Rwanda,Government of Rwanda,,ALiR,2013,,2,,1,1,3,1990-10-01,1,1996-07-12,1,0,,,517,,,,517,4,4.0-2015
+1-180,1997,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,0,3,1988-12-31,3,1997-03-18,1,0,,,433,,,,433,4,4.0-2015
+1-118,1997,Uganda,Government of Uganda,,"ADF, LRA, UNRF II","1337, 1336, 1339",,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,1998,Chad,Government of Chad,,FARF,1297,,2,,1,1,3,1966-07-31,4,1997-10-30,1,0,,,483,,,,483,4,4.0-2015
+1-86,1998,DR Congo (Zaire),Government of DR Congo (Zaire) ,"Government of Angola, Government of Chad, Government of Namibia, Government of Zimbabwe (Rhodesia)","MLC, RCD","1269, 1270","Government of Rwanda, Government of Uganda",2,,2,1,4,1964-01-18,1,1996-10-19,1,0,,,490,"540, 483, 565, 552",,"500, 517",490,4,4.0-2015
+1-215,1998,"Eritrea, Ethiopia",Government of Eritrea,,Government of Ethiopia,530,,1,Common border,2,1,2,1998-05-06,1,1998-05-31,2,0,,,531,,530,,"530, 531",4,4.0-2015
+1-133,1998,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,1998,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-179,1998,Rwanda,Government of Rwanda,,ALiR,2013,,2,,2,1,3,1990-10-01,1,1996-07-12,1,0,,,517,,,,517,4,4.0-2015
+1-180,1998,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,1,3,1988-12-31,3,1997-03-18,1,1,1998-11-02,1,433,,,,433,4,4.0-2015
+1-118,1998,Uganda,Government of Uganda,,"ADF, LRA","1337, 1336",,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,1999,Chad,Government of Chad,,MDJT,1298,,2,,1,1,3,1966-07-31,4,1997-10-30,1,0,,,483,,,,483,4,4.0-2015
+1-184,1999,Djibouti,Government of Djibouti,,FRUD - AD,1383,,2,,1,0,3,1991-11-12,1,1999-07-24,1,1,1999-08-31,3,522,,,,522,4,4.0-2015
+1-86,1999,DR Congo (Zaire),Government of DR Congo (Zaire) ,"Government of Angola, Government of Chad, Government of Namibia, Government of Zimbabwe (Rhodesia)","MLC, RCD","1269, 1270","Government of Rwanda, Government of Uganda",2,,2,1,4,1964-01-18,1,1996-10-19,1,0,,,490,"540, 483, 565, 552",,"500, 517",490,4,4.0-2015
+1-130,1999,Eritrea,Government of Eritrea,,EIJM - AS,1343,,2,,1,0,3,1993-12-16,1,1999-04-04,3,1,1999-11-29,5,531,,,,531,4,4.0-2015
+1-215,1999,"Eritrea, Ethiopia",Government of Eritrea,,Government of Ethiopia,530,,1,Common border,2,1,2,1998-05-06,1,1998-05-31,2,0,,,531,,530,,"530, 531",4,4.0-2015
+1-133,1999,Ethiopia,Government of Ethiopia,,"AIAI, ONLF","1394, 1346",,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,1999,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-179,1999,Rwanda,Government of Rwanda,,ALiR,2013,,2,,1,1,3,1990-10-01,1,1996-07-12,1,0,,,517,,,,517,4,4.0-2015
+1-118,1999,Uganda,Government of Uganda,,ADF,1337,,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,2000,Chad,Government of Chad,,MDJT,1298,,2,,1,1,3,1966-07-31,4,1997-10-30,1,0,,,483,,,,483,4,4.0-2015
+1-86,2000,DR Congo (Zaire),Government of DR Congo (Zaire) ,"Government of Angola, Government of Namibia, Government of Zimbabwe (Rhodesia)","MLC, RCD","1269, 1270","Government of Rwanda, Government of Uganda",2,,2,1,4,1964-01-18,1,1996-10-19,1,0,,,490,"540, 565, 552",,"500, 517",490,4,4.0-2015
+1-215,2000,"Eritrea, Ethiopia",Government of Eritrea,,Government of Ethiopia,530,,1,Common border,2,1,2,1998-05-06,1,1998-05-31,2,1,2000-06-18,5,531,,530,,"530, 531",4,4.0-2015
+1-133,2000,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2000,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-111,2000,Guinea,Government of Guinea,,RFDG,1309,,2,,1,0,3,2000-09-01,1,2000-09-17,1,0,,,438,,,,438,4,4.0-2015
+1-146,2000,Liberia,Government of Liberia,,LURD,1360,,2,,1,0,3,1980-04-12,1,2000-05-31,3,0,,,450,,,,450,4,4.0-2015
+1-179,2000,Rwanda,Government of Rwanda,,ALiR,2013,,2,,1,1,3,1990-10-01,1,1996-07-12,1,0,,,517,,,,517,4,4.0-2015
+1-180,2000,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,1,3,1988-12-31,3,2000-04-11,1,0,,,433,,,,433,4,4.0-2015
+1-118,2000,Uganda,Government of Uganda,,"ADF, LRA","1337, 1336",,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-222,2001,Central African Republic,Government of Central African Republic,Government of Libya,Military faction (forces of André Kolingba),1406,,2,,1,0,4,2001-05-27,1,2001-06-01,1,0,,,482,620,,,482,4,4.0-2015
+1-91,2001,Chad,Government of Chad,,MDJT,1298,,2,,1,1,3,1966-07-31,4,1997-10-30,1,0,,,483,,,,483,4,4.0-2015
+1-86,2001,DR Congo (Zaire),Government of DR Congo (Zaire) ,"Government of Angola, Government of Namibia, Government of Zimbabwe (Rhodesia)",RCD,1270,Government of Rwanda,2,,1,1,4,1964-01-18,1,1996-10-19,1,1,2001-09-29,2,490,"540, 565, 552",,517,490,4,4.0-2015
+1-133,2001,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2001,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-111,2001,Guinea,Government of Guinea,,RFDG,1309,,2,,1,0,3,2000-09-01,1,2000-09-17,1,1,2001-07-19,1,438,,,,438,4,4.0-2015
+1-146,2001,Liberia,Government of Liberia,,LURD,1360,,2,,1,0,3,1980-04-12,1,2000-05-31,3,0,,,450,,,,450,4,4.0-2015
+1-179,2001,Rwanda,Government of Rwanda,,FDLR,1380,,2,,2,1,3,1990-10-01,1,1996-07-12,1,0,,,517,,,,517,4,4.0-2015
+1-180,2001,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,1,3,1988-12-31,3,2000-04-11,1,1,2001-12-07,1,433,,,,433,4,4.0-2015
+1-118,2001,Uganda,Government of Uganda,,"ADF, LRA","1337, 1336",,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-222,2002,Central African Republic,Government of Central African Republic,,Forces of Francois Bozize,1407,,2,,1,0,3,2001-05-27,1,2001-06-01,1,1,2002-12-19,1,482,,,,482,4,4.0-2015
+1-91,2002,Chad,Government of Chad,,MDJT,1298,,2,,1,1,3,1966-07-31,4,1997-10-30,1,0,,,483,,,,483,4,4.0-2015
+1-133,2002,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2002,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-225,2002,Ivory Coast,Government of Ivory Coast,,"MPCI, MPIGO","1410, 1411",,2,,1,0,3,2002-09-19,1,2002-09-20,2,0,,,437,,,,437,4,4.0-2015
+1-146,2002,Liberia,Government of Liberia,,LURD,1360,,2,,1,1,3,1980-04-12,1,2000-05-31,3,0,,,450,,,,450,4,4.0-2015
+1-179,2002,Rwanda,Government of Rwanda,,FDLR,1380,,2,,1,1,3,1990-10-01,1,1996-07-12,1,1,2002-03-01,1,517,,,,517,4,4.0-2015
+1-118,2002,Uganda,Government of Uganda,,"ADF, LRA","1337, 1336",,2,,2,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,2003,Chad,Government of Chad,,MDJT,1298,,2,,1,1,3,1966-07-31,4,1997-10-30,1,1,2003-12-14,1,483,,,,483,4,4.0-2015
+1-130,2003,Eritrea,Government of Eritrea,,EIJM - AS,1343,,2,,1,0,3,1993-12-16,1,2003-07-17,1,1,2003-08-09,1,531,,,,531,4,4.0-2015
+1-133,2003,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2003,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-225,2003,Ivory Coast,Government of Ivory Coast,,"MJP, MPIGO","1409, 1411",,2,,1,0,3,2002-09-19,1,2002-09-20,2,0,,,437,,,,437,4,4.0-2015
+1-146,2003,Liberia,Government of Liberia,,"LURD, MODEL","1360, 1361",,2,,2,1,3,1980-04-12,1,2000-05-31,3,1,2003-11-21,1,450,,,,450,4,4.0-2015
+1-180,2003,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,1,3,1988-12-31,3,2003-01-20,3,1,2003-10-11,1,433,,,,433,4,4.0-2015
+1-118,2003,Uganda,Government of Uganda,,LRA,1336,,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-133,2004,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2004,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-225,2004,Ivory Coast,Government of Ivory Coast,,FRCI,1412,,2,,1,0,3,2002-09-19,1,2002-09-20,2,1,2004-11-09,2,437,,,,437,4,4.0-2015
+1-249,2004,Nigeria,Government of Nigeria,,Ahlul Sunnah Jamaa,1413,,1,Northern Nigeria,1,0,3,2003-12-28,2,2004-09-23,1,1,2004-10-08,1,475,,,,475,4,4.0-2015
+1-250,2004,Nigeria,Government of Nigeria,,NDPVF,1414,,1,Niger Delta,1,0,3,2004-06-04,1,2004-06-04,1,1,2004-09-20,3,475,,,,475,4,4.0-2015
+1-118,2004,Uganda,Government of Uganda,,LRA,1336,,2,,2,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,2005,Chad,Government of Chad,,FUCD,1299,,2,,1,1,3,1966-07-31,4,2005-12-18,1,0,,,483,,,,483,4,4.0-2015
+1-133,2005,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2005,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-118,2005,Uganda,Government of Uganda,Government of Sudan,LRA,1336,,2,,1,1,4,1971-01-25,1,1994-02-21,1,0,,,500,625,,,500,4,4.0-2015
+1-222,2006,Central African Republic,Government of Central African Republic,Government of France,UFDR,1408,,2,,1,0,4,2001-05-27,1,2006-11-28,2,1,2006-12-01,1,482,220,,,482,4,4.0-2015
+1-91,2006,Chad,Government of Chad,,"FUCD, RAFD, UFDD","1299, 1300, 1302",,2,,2,1,3,1966-07-31,4,2005-12-18,1,0,,,483,,,,483,4,4.0-2015
+1-86,2006,DR Congo (Zaire),Government of DR Congo (Zaire) ,,CNDP,1272,,2,,1,1,3,1964-01-18,1,2006-11-28,2,0,,,490,,,,490,4,4.0-2015
+1-133,2006,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2006,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-118,2006,Uganda,Government of Uganda,,LRA,1336,,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,2007,Chad,Government of Chad,,UFDD,1302,,2,,1,1,3,1966-07-31,4,2005-12-18,1,0,,,483,,,,483,4,4.0-2015
+1-254,2007,DR Congo (Zaire),Government of DR Congo (Zaire) ,,BDK,1415,,1,Kongo Kingdom,1,0,3,1998-07-02,1,2007-02-01,2,0,,,490,,,,490,4,4.0-2015
+1-86,2007,DR Congo (Zaire),Government of DR Congo (Zaire) ,,CNDP,1272,,2,,1,1,3,1964-01-18,1,2006-11-28,2,0,,,490,,,,490,4,4.0-2015
+1-133,2007,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2007,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-177,2007,Mali,Government of Mali,,ATNMC,1375,,1,Azawad,1,0,3,1990-06-28,1,2007-08-31,1,0,,,432,,,,432,4,4.0-2015
+1-255,2007,Niger,Government of Niger,,MNJ,1416,,2,,1,0,3,1991-10-25,1,2007-04-30,1,0,,,436,,,,436,4,4.0-2015
+1-118,2007,Uganda,Government of Uganda,,ADF,1337,,2,,1,1,3,1971-01-25,1,1994-02-21,1,0,,,500,,,,500,4,4.0-2015
+1-91,2008,Chad,Government of Chad,,AN ,1577,,2,,1,1,3,1966-07-31,4,2005-12-18,1,0,,,483,,,,483,4,4.0-2015
+1-260,2008,"Djibouti, Eritrea",Government of Djibouti,,Government of Eritrea,531,,1,Common border,1,0,2,2008-06-10,1,2008-06-11,2,1,2008-06-11,2,522,,531,,"522, 531",4,4.0-2015
+1-254,2008,DR Congo (Zaire),Government of DR Congo (Zaire) ,,BDK,1415,,1,Kongo Kingdom,1,0,3,1998-07-02,1,2007-02-01,2,1,2008-03-31,3,490,,,,490,4,4.0-2015
+1-86,2008,DR Congo (Zaire),Government of DR Congo (Zaire) ,,CNDP,1272,,2,,1,1,3,1964-01-18,1,2006-11-28,2,1,2008-10-29,1,490,,,,490,4,4.0-2015
+1-133,2008,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2008,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-177,2008,Mali,Government of Mali,,ATNMC,1375,,1,Azawad,1,0,3,1990-06-28,1,2007-08-31,1,0,,,432,,,,432,4,4.0-2015
+1-255,2008,Niger,Government of Niger,,MNJ,1416,,2,,1,0,3,1991-10-25,1,2007-04-30,1,1,2008-11-16,2,436,,,,436,4,4.0-2015
+1-118,2008,Uganda,Government of Uganda,"Government of DR Congo (Zaire) , Government of Sudan",LRA,1336,,2,,1,1,4,1971-01-25,1,1994-02-21,1,0,,,500,"490, 625",,,500,4,4.0-2015
+1-222,2009,Central African Republic,Government of Central African Republic,,CPJP,1937,,2,,1,0,3,2001-05-27,1,2009-12-07,1,0,,,482,,,,482,4,4.0-2015
+1-91,2009,Chad,Government of Chad,,UFR,1953,,2,,1,1,3,1966-07-31,4,2005-12-18,1,0,,,483,,,,483,4,4.0-2015
+1-133,2009,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2009,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-177,2009,Mali,Government of Mali,,ATNMC,1375,,1,Azawad,1,0,3,1990-06-28,1,2007-08-31,1,1,2009-01-22,1,432,,,,432,4,4.0-2015
+1-274,2009,Mali,Government of Mali,,AQIM,1391,,2,,1,0,3,2009-06-14,2,2009-06-16,1,1,2009-07-16,3,432,,,,432,4,4.0-2015
+1-100,2009,Nigeria,Government of Nigeria,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1935,,2,,1,0,3,1966-01-15,1,2009-07-26,1,1,2009-07-30,1,475,,,,475,4,4.0-2015
+1-179,2009,Rwanda,Government of Rwanda,Government of DR Congo (Zaire) ,FDLR,1380,,2,,2,1,4,1990-10-01,1,2009-02-16,1,0,,,517,490,,,517,4,4.0-2015
+1-118,2009,Uganda,Government of Uganda,"Government of Central African Republic, Government of DR Congo (Zaire) , Government of Sudan",LRA,1336,,2,,1,1,4,1971-01-25,1,1994-02-21,1,0,,,500,"482, 490, 625",,,500,4,4.0-2015
+1-222,2010,Central African Republic,Government of Central African Republic,,CPJP,1937,,2,,1,0,3,2001-05-27,1,2009-12-07,1,0,,,482,,,,482,4,4.0-2015
+1-91,2010,Chad,Government of Chad,,PFNR,1997,,2,,1,1,3,1966-07-31,4,2005-12-18,1,1,2010-04-28,2,483,,,,483,4,4.0-2015
+1-133,2010,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2010,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-179,2010,Rwanda,Government of Rwanda,Government of DR Congo (Zaire) ,FDLR,1380,,2,,1,1,4,1990-10-01,1,2009-02-16,1,0,,,517,490,,,517,4,4.0-2015
+1-118,2010,Uganda,Government of Uganda,"Government of Central African Republic, Government of DR Congo (Zaire) , Government of Sudan","ADF, LRA","1337, 1336",,2,,1,1,4,1971-01-25,1,1994-02-21,1,0,,,500,"490, 482, 625",,,500,4,4.0-2015
+1-222,2011,Central African Republic,Government of Central African Republic,,CPJP,1937,,2,,1,0,3,2001-05-27,1,2009-12-07,1,0,,,482,,,,482,4,4.0-2015
+1-133,2011,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2011,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-225,2011,Ivory Coast,Government of Ivory Coast,,FDSI-CI,2010,,2,,1,0,3,2002-09-19,1,2011-03-13,1,1,2011-04-27,1,437,,,,437,4,4.0-2015
+1-100,2011,Nigeria,Government of Nigeria,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1935,,2,,1,0,3,1966-01-15,1,2011-03-01,1,0,,,475,,,,475,4,4.0-2015
+1-179,2011,Rwanda,Government of Rwanda,Government of DR Congo (Zaire) ,FDLR,1380,,2,,1,1,4,1990-10-01,1,2009-02-16,1,0,,,517,490,,,517,4,4.0-2015
+1-180,2011,Senegal,Government of Senegal,,MFDC,1381,,1,Casamance,1,1,3,1988-12-31,3,2011-12-20,1,1,2011-12-30,3,433,,,,433,4,4.0-2015
+1-118,2011,Uganda,Government of Uganda,"Government of Central African Republic, Government of DR Congo (Zaire) , Government of South Sudan, Government of Sudan","ADF, LRA","1337, 1336",,2,,1,1,4,1971-01-25,1,1994-02-21,1,1,2011-11-03,1,500,"482, 490, 626, 625",,,500,4,4.0-2015
+1-222,2012,Central African Republic,Government of Central African Republic,Government of Chad,Seleka,2044,,2,,1,0,4,2001-05-27,1,2009-12-07,1,0,,,482,483,,,482,4,4.0-2015
+1-86,2012,DR Congo (Zaire),Government of DR Congo (Zaire) ,,M23,2045,"Government of Rwanda, Government of Uganda",2,,1,1,4,1964-01-18,1,2012-06-06,5,0,,,490,,,"517, 500",490,4,4.0-2015
+1-133,2012,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2012,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-177,2012,Mali,Government of Mali,,MNLA,2043,,1,Azawad,1,0,3,1990-06-28,1,2012-01-24,1,1,2012-03-31,1,432,,,,432,4,4.0-2015
+1-274,2012,Mali,Government of Mali,,"Ansar Dine, Military faction (Red Berets)","2042, 2050",,2,,1,0,3,2009-06-14,2,2012-01-24,1,0,,,432,,,,432,4,4.0-2015
+1-100,2012,Nigeria,Government of Nigeria,"Government of Chad, Government of Niger",Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1935,,2,,1,1,4,1966-01-15,1,2011-03-01,1,0,,,475,"483, 436",,,475,4,4.0-2015
+1-179,2012,Rwanda,Government of Rwanda,Government of DR Congo (Zaire) ,FDLR,1380,,2,,1,1,4,1990-10-01,1,2009-02-16,1,1,2012-12-02,1,517,490,,,517,4,4.0-2015
+1-222,2013,Central African Republic,Government of Central African Republic,Government of South Africa,"anti-Balaka, Seleka","4201, 2044",,2,,1,0,4,2001-05-27,1,2009-12-07,1,1,12/5/13,1,482,560,,,482,4,4.0-2015
+1-68,2013,DR Congo (Zaire),Government of DR Congo (Zaire) ,,Kata Katanga,3967,,1,Katanga,1,0,3,1961-10-27,1,2013-03-18,1,0,,,490,,,,490,4,4.0-2015
+1-86,2013,DR Congo (Zaire),Government of DR Congo (Zaire) ,,"APCLS, Forces of Paul Joseph Mukungubila, M23","2091, 4286, 2045",Government of Rwanda,2,,2,1,4,1964-01-18,1,2012-06-06,5,0,,,490,,,517,490,4,4.0-2015
+1-133,2013,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-219,2013,Ethiopia,Government of Ethiopia,,OLF,1404,,1,Oromiya,1,1,3,1974-08-31,4,1998-12-31,5,1,12/31/13,5,530,,,,530,4,4.0-2015
+1-274,2013,Mali,Government of Mali,"Government of Bangladesh, Government of Belgium, Government of Benin, Government of Burkina Faso, Government of Burundi, Government of Cambodia (Kampuchea), Government of Chad, Government of China, Government of Egypt, Government of Estonia, Government of Finland, Government of France, Government of Germany, Government of Ghana, Government of Guinea, Government of Guinea-Bissau, Government of Italy, Government of Ivory Coast, Government of Jordan, Government of Liberia, Government of Mauritania, Government of Nepal, Government of Niger, Government of Nigeria, Government of Norway, Government of Rwanda, Government of Senegal, Government of Sierra Leone, Government of Sweden, Government of Tajikistan, Government of Togo, Government of United Kingdom, Government of United States of America, Government of Yemen (North Yemen)","Ansar Dine, AQIM, MUJAO, Signed-in-Blood Battalion","2042, 1391, 2046, 2120",,2,,1,1,4,2009-06-14,2,2012-01-24,1,0,,,432,"771, 211, 434, 439, 516, 811, 483, 710, 651, 366, 375, 220, 260, 452, 438, 404, 325, 437, 663, 450, 435, 790, 436, 475, 385, 517, 433, 451, 380, 702, 461, 200, 2, 678",,,432,4,4.0-2015
+1-136,2013,Mozambique,Government of Mozambique,,Renamo,1347,,2,,1,1,3,1977-12-31,6,2013-11-05,1,1,11/5/13,1,541,,,,541,4,4.0-2015
+1-100,2013,Nigeria,Government of Nigeria,"Government of Chad, Government of Niger",Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1935,,2,,2,1,4,1966-01-15,1,2011-03-01,1,0,,,475,"483, 436",,,475,4,4.0-2015
+1-118,2013,Uganda,Government of Uganda,"Government of Central African Republic, Government of DR Congo (Zaire) , Government of South Sudan","ADF, LRA","1337, 1336",,2,,1,1,4,1971-01-25,1,2013-06-24,1,0,,,500,"482, 490, 626",,,500,4,4.0-2015
+1-68,2014,DR Congo (Zaire),Government of DR Congo (Zaire) ,,Kata Katanga,3967,,1,Katanga,1,0,3,10/27/61,1,3/18/13,1,0,,,490,,,,490,4,4.0-2015
+1-86,2014,DR Congo (Zaire),Government of DR Congo (Zaire) ,,"APCLS, PARC-FAAL","2091, 3043",,2,,1,1,3,1/18/64,1,6/6/12,5,0,,,490,,,,490,4,4.0-2015
+1-133,2014,Ethiopia,Government of Ethiopia,,ONLF,1346,,1,Ogaden,1,1,3,1964-01-11,2,1998-12-31,5,0,,,530,,,,530,4,4.0-2015
+1-177,2014,Mali,Government of Mali,,MNLA,2043,,1,Azawad,1,0,3,6/28/90,1,5/17/14,1,0,,,432,,,,432,4,4.0-2015
+1-274,2014,Mali,Government of Mali,"Government of Bangladesh, Government of Belgium, Government of Benin, Government of Burkina Faso, Government of Burundi, Government of Cambodia (Kampuchea), Government of Chad, Government of China, Government of Egypt, Government of Estonia, Government of Finland, Government of France, Government of Germany, Government of Ghana, Government of Guinea, Government of Guinea-Bissau, Government of Italy, Government of Ivory Coast, Government of Jordan, Government of Liberia, Government of Mauritania, Government of Nepal, Government of Niger, Government of Nigeria, Government of Norway, Government of Rwanda, Government of Senegal, Government of Sierra Leone, Government of Sweden, Government of Tajikistan, Government of Togo, Government of United Kingdom, Government of United States of America","al-Murabitun, AQIM","4376, 1391",,2,,1,1,4,6/14/09,2,1/24/12,1,0,,,432,"771, 211, 434, 439, 516, 811, 483, 710, 651, 366, 375, 220, 260, 452, 438, 404, 325, 437, 663, 450, 435, 790, 436, 475, 385, 517, 433, 451, 380, 702, 461, 200, 2",,,432,4,4.0-2015
+1-100,2014,Nigeria,Government of Nigeria,"Government of Cameroon, Government of Chad, Government of Niger",Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,1935,,2,,2,1,4,1/15/66,1,3/1/11,1,0,,,475,"471, 483, 436",,,475,4,4.0-2015
+1-118,2014,Uganda,Government of Uganda,"Government of DR Congo (Zaire), Government of South Sudan","ADF, LRA","1337, 1336",,2,,1,1,4,1/25/71,1,6/24/13,1,0,,,500,"490, 626",,,500,4,4.0-2015

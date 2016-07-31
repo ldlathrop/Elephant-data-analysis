@@ -1,0 +1,233 @@
+ActorId,CoalitionComponents,ActorName,Year,BestFatalityEstimate,LowFatalityEstimate,HighFatalityEstimate,IsGovernmentActor,Location,GWNOLocation,Region,Version
+517,,Government of Rwanda,1994,500000,171059,800000,1,"Burundi, DR Congo (Zaire), Rwanda","490, 516, 517",4,1.4-2015
+1478,,"Interahamwe, ex-FAR",1994,77,77,203,0,"Burundi, DR Congo (Zaire), Rwanda","490, 516, 517",4,1.4-2015
+1379,,FPR,1994,992,992,1622,0,"Burundi, Rwanda","516, 517",4,1.4-2015
+471,,Government of Cameroon,1994,55,55,61,1,"Cameroon, Nigeria","471, 475",4,1.4-2015
+483,,Government of Chad,1994,230,230,230,1,Chad,483,4,1.4-2015
+1294,,CSNPD,1994,124,0,200,0,Chad,483,4,1.4-2015
+1358,,NPFL,1994,1357,1357,1818,0,"Ivory Coast, Liberia","437, 450",4,1.4-2015
+1496,,LPC,1994,1165,1165,1512,0,Liberia,450,4,1.4-2015
+1557,,ULIMO - K,1994,1148,1148,1148,0,Liberia,450,4,1.4-2015
+432,,Government of Mali,1994,251,251,989,1,Mali,432,4,1.4-2015
+1374,,FIAA,1994,96,96,194,0,Mali,432,4,1.4-2015
+1576,,MPGK ,1994,246,246,271,0,Mali,432,4,1.4-2015
+475,,Government of Nigeria,1994,56,56,106,1,Nigeria,475,4,1.4-2015
+1440,,AWB,1994,39,39,39,0,South Africa,560,4,1.4-2015
+483,,Government of Chad,1995,47,47,48,1,Chad,483,4,1.4-2015
+344,,Government of Croatia,1995,85,85,277,1,Croatia,344,1,1.4-2015
+490,,Government of DR Congo (Zaire) ,1995,58,49,81,1,DR Congo (Zaire),490,4,1.4-2015
+517,,Government of Rwanda,1995,4141,2141,8235,1,"DR Congo (Zaire), Rwanda","490, 517",4,1.4-2015
+1358,,NPFL,1995,1006,1006,1006,0,"Ivory Coast, Liberia","437, 450",4,1.4-2015
+1496,,LPC,1995,1003,1003,1003,0,Liberia,450,4,1.4-2015
+1556,,ULIMO - J,1995,52,52,52,0,Liberia,450,4,1.4-2015
+1557,,ULIMO - K,1995,211,211,250,0,Liberia,450,4,1.4-2015
+436,,Government of Niger,1995,31,31,31,1,Niger,436,4,1.4-2015
+1381,,MFDC,1995,25,25,29,0,Senegal,433,4,1.4-2015
+1336,,LRA,1995,275,275,285,0,"Sudan, Uganda","500, 625",4,1.4-2015
+517,,Government of Rwanda,1996,154,154,160,1,"Burundi, DR Congo (Zaire), Rwanda","490, 516, 517",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,1996,1353,1253,1746,1,DR Congo (Zaire),490,4,1.4-2015
+1268,,AFDL,1996,30110,28854,38404,0,DR Congo (Zaire),490,4,1.4-2015
+1277,,CNDD,1996,62,62,70,0,DR Congo (Zaire),490,4,1.4-2015
+1518,,Mayi Mayi - Ngilima ,1996,50,50,60,0,DR Congo (Zaire),490,4,1.4-2015
+549017,"1478, 1927","Interahamwe, MAGRIVI",1996,315,209,984,0,DR Congo (Zaire),490,4,1.4-2015
+2013,,ALiR,1996,1171,650,5214,0,"DR Congo (Zaire), Rwanda","490, 517",4,1.4-2015
+1557,,ULIMO - K,1996,71,71,71,0,"Guinea, Liberia","438, 450",4,1.4-2015
+1556,,ULIMO - J,1996,1025,1025,1025,0,Liberia,450,4,1.4-2015
+1336,,LRA,1996,586,586,666,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1338,,WNBF,1996,27,27,27,0,Uganda,500,4,1.4-2015
+2013,,ALiR,1997,809,805,2313,0,"Burundi, DR Congo (Zaire), Rwanda","490, 516, 517",4,1.4-2015
+1297,,FARF,1997,34,34,34,0,Chad,483,4,1.4-2015
+484,,Government of Congo,1997,371,371,1171,1,Congo,484,4,1.4-2015
+1398,,Cobras,1997,39,39,39,0,Congo,484,4,1.4-2015
+1268,,AFDL,1997,5016,5016,32241,0,DR Congo (Zaire),490,4,1.4-2015
+490,,Government of DR Congo (Zaire) ,1997,4160,4160,5083,1,"DR Congo (Zaire), Uganda","490, 500",4,1.4-2015
+517,,Government of Rwanda,1997,3426,1126,4176,1,Rwanda,517,4,1.4-2015
+1381,,MFDC,1997,39,39,43,0,Senegal,433,4,1.4-2015
+1336,,LRA,1997,452,452,452,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1337,,ADF,1997,144,144,144,0,Uganda,500,4,1.4-2015
+2013,,ALiR,1998,1079,1077,1141,0,"Burundi, DR Congo (Zaire), Rwanda","490, 516, 517",4,1.4-2015
+483,,Government of Chad,1998,145,145,145,1,Chad,483,4,1.4-2015
+484,,Government of Congo,1998,431,431,1560,1,Congo,484,4,1.4-2015
+1401,,Ntsiloulous,1998,58,58,94,0,Congo,484,4,1.4-2015
+490,,Government of DR Congo (Zaire) ,1998,1591,1291,1666,1,DR Congo (Zaire),490,4,1.4-2015
+1270,,RCD,1998,2322,2178,8522,0,DR Congo (Zaire),490,4,1.4-2015
+1384,,RUF,1998,650,650,673,0,"Guinea, Sierra Leone","438, 451",4,1.4-2015
+1385,,AFRC,1998,1132,1132,1164,0,"Guinea, Sierra Leone","438, 451",4,1.4-2015
+436,,Government of Niger,1998,147,147,148,1,Niger,436,4,1.4-2015
+475,,Government of Nigeria,1998,43,43,67,1,Nigeria,475,4,1.4-2015
+433,,Government of Senegal,1998,38,38,38,1,Senegal,433,4,1.4-2015
+1381,,MFDC,1998,57,57,57,0,Senegal,433,4,1.4-2015
+1336,,LRA,1998,105,105,105,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1337,,ADF,1998,208,208,272,0,Uganda,500,4,1.4-2015
+484,,Government of Congo,1999,326,326,327,1,Congo,484,4,1.4-2015
+490,,Government of DR Congo (Zaire) ,1999,619,619,632,1,DR Congo (Zaire),490,4,1.4-2015
+1270,,RCD,1999,1761,1761,1813,0,DR Congo (Zaire),490,4,1.4-2015
+1505,,Mayi Mayi,1999,169,169,169,0,DR Congo (Zaire),490,4,1.4-2015
+2013,,ALiR,1999,51,43,61,0,"DR Congo (Zaire), Rwanda, Uganda","490, 500, 517",4,1.4-2015
+1384,,RUF,1999,232,232,232,0,"Guinea, Sierra Leone","438, 451",4,1.4-2015
+450,,Government of Liberia,1999,70,70,70,1,Liberia,450,4,1.4-2015
+475,,Government of Nigeria,1999,2704,2704,2846,1,"Nigeria, Sierra Leone","451, 475",4,1.4-2015
+1336,,LRA,1999,33,33,56,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1337,,ADF,1999,268,268,300,0,Uganda,500,4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2000,82,82,82,1,DR Congo (Zaire),490,4,1.4-2015
+500,,Government of Uganda,2000,26,26,26,1,DR Congo (Zaire),490,4,1.4-2015
+1270,,RCD,2000,286,250,584,0,DR Congo (Zaire),490,4,1.4-2015
+1505,,Mayi Mayi,2000,63,63,63,0,DR Congo (Zaire),490,4,1.4-2015
+2013,,ALiR,2000,73,72,73,0,DR Congo (Zaire),490,4,1.4-2015
+1384,,RUF,2000,476,476,476,0,"Guinea, Sierra Leone","438, 451",4,1.4-2015
+437,,Government of Ivory Coast,2000,101,101,121,1,Ivory Coast,437,4,1.4-2015
+450,,Government of Liberia,2000,44,44,44,1,Liberia,450,4,1.4-2015
+1442,,Bakassi boys,2000,31,31,31,0,Nigeria,475,4,1.4-2015
+1336,,LRA,2000,94,94,104,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1337,,ADF,2000,84,84,90,0,Uganda,500,4,1.4-2015
+482,,Government of Central African Republic,2001,25,25,60,1,"Central African Republic, Chad","482, 483",4,1.4-2015
+1270,,RCD,2001,173,173,173,0,DR Congo (Zaire),490,4,1.4-2015
+1271,,RCD-ML ,2001,45,45,45,0,DR Congo (Zaire),490,4,1.4-2015
+450,,Government of Liberia,2001,120,120,120,1,Liberia,450,4,1.4-2015
+475,,Government of Nigeria,2001,367,367,594,1,Nigeria,475,4,1.4-2015
+1336,,LRA,2001,60,60,69,0,"Sudan, Uganda","500, 625",4,1.4-2015
+510,,Government of Tanzania,2001,37,37,71,1,Tanzania,510,4,1.4-2015
+1278,,Palipehutu-FNL,2002,96,96,98,0,"Burundi, DR Congo (Zaire)","490, 516",4,1.4-2015
+1485,,Janjaweed ,2002,28,28,188,0,"Chad, Sudan","483, 625",4,1.4-2015
+1401,,Ntsiloulous,2002,58,58,80,0,Congo,484,4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2002,189,189,189,1,DR Congo (Zaire),490,4,1.4-2015
+1270,,RCD,2002,646,646,690,0,DR Congo (Zaire),490,4,1.4-2015
+1460,,FNI,2002,348,348,348,0,DR Congo (Zaire),490,4,1.4-2015
+1505,,Mayi Mayi,2002,74,74,74,0,DR Congo (Zaire),490,4,1.4-2015
+1960,,UPC,2002,1894,1768,2541,0,DR Congo (Zaire),490,4,1.4-2015
+1961,,FRPI,2002,164,164,164,0,DR Congo (Zaire),490,4,1.4-2015
+5997,,Mayi Mayi - Makabe,2002,25,25,25,0,DR Congo (Zaire),490,4,1.4-2015
+549001,"1269, 1511","MLC, RCD-N",2002,185,173,185,0,DR Congo (Zaire),490,4,1.4-2015
+549004,"1961, 1650","FRPI, RCD-K-ML",2002,1200,1200,3000,0,DR Congo (Zaire),490,4,1.4-2015
+549007,"1269, 1960, 1511","MLC, RCD-N, UPC",2002,50,50,50,0,DR Congo (Zaire),490,4,1.4-2015
+530,,Government of Ethiopia,2002,35,35,40,1,Ethiopia,530,4,1.4-2015
+437,,Government of Ivory Coast,2002,228,228,279,1,Ivory Coast,437,4,1.4-2015
+1410,,MPCI,2002,103,103,103,0,Ivory Coast,437,4,1.4-2015
+450,,Government of Liberia,2002,1648,1648,1648,1,Liberia,450,4,1.4-2015
+1360,,LURD,2002,120,120,120,0,"Liberia, Sierra Leone","450, 451",4,1.4-2015
+475,,Government of Nigeria,2002,111,111,112,1,Nigeria,475,4,1.4-2015
+1507,,MFDC - FN,2002,25,25,26,0,Senegal,433,4,1.4-2015
+1336,,LRA,2002,1054,1054,1077,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1278,,Palipehutu-FNL,2003,55,55,77,0,"Burundi, DR Congo (Zaire)","490, 516",4,1.4-2015
+1280,,CNDD-FDD ,2003,90,90,116,0,"Burundi, DR Congo (Zaire)","490, 516",4,1.4-2015
+1270,,RCD,2003,126,87,130,0,DR Congo (Zaire),490,4,1.4-2015
+1460,,FNI,2003,1732,1409,2337,0,DR Congo (Zaire),490,4,1.4-2015
+1960,,UPC,2003,469,469,519,0,DR Congo (Zaire),490,4,1.4-2015
+5997,,Mayi Mayi - Makabe,2003,25,25,25,0,DR Congo (Zaire),490,4,1.4-2015
+549002,"1460, 1961, 1650","FNI, FRPI, RCD-K-ML ",2003,160,80,160,0,DR Congo (Zaire),490,4,1.4-2015
+549003,"1460, 1961","FNI, FRPI",2003,325,265,415,0,DR Congo (Zaire),490,4,1.4-2015
+549015,"1457, 1460","FAPC, FNI ",2003,33,33,33,0,DR Congo (Zaire),490,4,1.4-2015
+530,,Government of Ethiopia,2003,509,509,509,1,Ethiopia,530,4,1.4-2015
+437,,Government of Ivory Coast,2003,73,73,73,1,Ivory Coast,437,4,1.4-2015
+1410,,MPCI,2003,50,50,100,0,Ivory Coast,437,4,1.4-2015
+1411,,MPIGO,2003,65,65,67,0,Ivory Coast,437,4,1.4-2015
+450,,Government of Liberia,2003,1076,1076,1076,1,Liberia,450,4,1.4-2015
+1360,,LURD,2003,418,418,418,0,Liberia,450,4,1.4-2015
+475,,Government of Nigeria,2003,43,43,43,1,Nigeria,475,4,1.4-2015
+2080,,FNDIC,2003,53,53,79,0,Nigeria,475,4,1.4-2015
+1336,,LRA,2003,635,635,922,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1278,,Palipehutu-FNL,2004,210,210,210,0,"Burundi, DR Congo (Zaire)","490, 516",4,1.4-2015
+1485,,Janjaweed ,2004,693,693,15215,0,"Chad, Sudan","483, 625",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2004,100,50,120,1,DR Congo (Zaire),490,4,1.4-2015
+1380,,FDLR,2004,66,66,66,0,DR Congo (Zaire),490,4,1.4-2015
+1457,,FAPC,2004,28,28,28,0,DR Congo (Zaire),490,4,1.4-2015
+1460,,FNI,2004,200,100,200,0,DR Congo (Zaire),490,4,1.4-2015
+1502,,Mayi Mayi - Chinja Chinja,2004,130,75,130,0,DR Congo (Zaire),490,4,1.4-2015
+1534,,RCD - LN,2004,139,139,270,0,DR Congo (Zaire),490,4,1.4-2015
+1926,,RCD - CP ,2004,30,30,30,0,DR Congo (Zaire),490,4,1.4-2015
+1961,,FRPI,2004,29,29,152,0,DR Congo (Zaire),490,4,1.4-2015
+530,,Government of Ethiopia,2004,244,244,1252,1,Ethiopia,530,4,1.4-2015
+437,,Government of Ivory Coast,2004,42,39,109,1,Ivory Coast,437,4,1.4-2015
+475,,Government of Nigeria,2004,38,38,90,1,Nigeria,475,4,1.4-2015
+1336,,LRA,2004,957,916,1050,0,"Sudan, Uganda","500, 625",4,1.4-2015
+625,,Government of Sudan,2005,403,303,706,1,"Chad, Sudan","483, 625",4,1.4-2015
+1485,,Janjaweed ,2005,350,350,505,0,"Chad, Sudan","483, 625",4,1.4-2015
+1380,,FDLR,2005,31,31,46,0,DR Congo (Zaire),490,4,1.4-2015
+1460,,FNI,2005,55,55,55,0,DR Congo (Zaire),490,4,1.4-2015
+1502,,Mayi Mayi - Chinja Chinja,2005,37,28,37,0,DR Congo (Zaire),490,4,1.4-2015
+1531,,Rastas,2005,139,139,171,0,DR Congo (Zaire),490,4,1.4-2015
+1442,,Bakassi boys,2005,32,32,35,0,Nigeria,475,4,1.4-2015
+1336,,LRA,2005,304,304,308,0,"Sudan, Uganda","500, 625",4,1.4-2015
+461,,Government of Togo,2005,436,436,461,1,Togo,461,4,1.4-2015
+482,,Government of Central African Republic,2006,119,119,145,1,Central African Republic,482,4,1.4-2015
+625,,Government of Sudan,2006,252,252,362,1,"Chad, Sudan","483, 625",4,1.4-2015
+1485,,Janjaweed ,2006,899,895,1473,0,"Chad, Sudan","483, 625",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2006,153,153,161,1,DR Congo (Zaire),490,4,1.4-2015
+1336,,LRA,2006,47,47,62,0,"DR Congo (Zaire), Sudan, Uganda","490, 500, 625",4,1.4-2015
+1380,,FDLR,2006,46,46,48,0,"DR Congo (Zaire), Uganda","490, 500",4,1.4-2015
+530,,Government of Ethiopia,2006,26,26,26,1,"Ethiopia, Sudan","530, 625",4,1.4-2015
+482,,Government of Central African Republic,2007,29,25,37,1,Central African Republic,482,4,1.4-2015
+1485,,Janjaweed ,2007,303,303,514,0,"Central African Republic, Chad, Sudan","482, 483, 625",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2007,92,81,98,1,DR Congo (Zaire),490,4,1.4-2015
+1272,,CNDP,2007,46,46,47,0,DR Congo (Zaire),490,4,1.4-2015
+1505,,Mayi Mayi,2007,31,31,31,0,DR Congo (Zaire),490,4,1.4-2015
+1531,,Rastas,2007,29,18,33,0,DR Congo (Zaire),490,4,1.4-2015
+1380,,FDLR,2007,40,40,40,0,"DR Congo (Zaire), Tanzania","490, 510",4,1.4-2015
+1346,,ONLF,2007,82,82,82,0,Ethiopia,530,4,1.4-2015
+530,,Government of Ethiopia,2007,162,162,250,1,"Ethiopia, Somalia","520, 530",4,1.4-2015
+438,,Government of Guinea,2007,45,42,56,1,Guinea,438,4,1.4-2015
+501,,Government of Kenya,2007,41,41,49,1,Kenya,501,4,1.4-2015
+1565,,SLDF,2007,53,53,107,0,Kenya,501,4,1.4-2015
+1575,,Mungiki,2007,40,40,40,0,Kenya,501,4,1.4-2015
+1336,,LRA,2007,62,62,62,0,"Sudan, Uganda","500, 625",4,1.4-2015
+1336,,LRA,2008,732,732,1065,0,"Central African Republic, DR Congo (Zaire), Sudan","482, 490, 625",4,1.4-2015
+1272,,CNDP,2008,111,111,194,0,DR Congo (Zaire),490,4,1.4-2015
+1380,,FDLR,2008,31,31,44,0,DR Congo (Zaire),490,4,1.4-2015
+1763,,PARECO,2008,41,41,41,0,DR Congo (Zaire),490,4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2008,49,49,59,1,"DR Congo (Zaire), Uganda","490, 500",4,1.4-2015
+530,,Government of Ethiopia,2008,33,33,57,1,"Ethiopia, Somalia","520, 530",4,1.4-2015
+501,,Government of Kenya,2008,220,195,254,1,Kenya,501,4,1.4-2015
+1565,,SLDF,2008,51,51,51,0,Kenya,501,4,1.4-2015
+1575,,Mungiki,2008,29,29,32,0,Kenya,501,4,1.4-2015
+475,,Government of Nigeria,2008,146,146,150,1,Nigeria,475,4,1.4-2015
+552,,Government of Zimbabwe (Rhodesia),2008,253,253,317,1,Zimbabwe (Rhodesia),552,4,1.4-2015
+1336,,LRA,2009,1352,1316,1422,0,"Central African Republic, DR Congo (Zaire), Sudan","482, 490, 625",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2009,887,887,1095,1,DR Congo (Zaire),490,4,1.4-2015
+1380,,FDLR,2009,1590,1582,1637,0,DR Congo (Zaire),490,4,1.4-2015
+517,,Government of Rwanda,2009,203,201,203,1,"DR Congo (Zaire), Rwanda","490, 517",4,1.4-2015
+438,,Government of Guinea,2009,160,90,160,1,Guinea,438,4,1.4-2015
+1575,,Mungiki,2009,37,37,67,0,Kenya,501,4,1.4-2015
+1336,,LRA,2010,434,424,462,0,"Central African Republic, DR Congo (Zaire), Sudan","482, 490, 625",4,1.4-2015
+1337,,ADF,2010,38,38,38,0,DR Congo (Zaire),490,4,1.4-2015
+1380,,FDLR,2010,70,47,77,0,DR Congo (Zaire),490,4,1.4-2015
+1999,,Mayi Mayi Complet,2010,27,27,27,0,DR Congo (Zaire),490,4,1.4-2015
+1935,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2010,92,87,103,0,Nigeria,475,4,1.4-2015
+1578,,Al-Shabaab,2010,88,86,95,0,"Somalia, Uganda","500, 520",4,1.4-2015
+1336,,LRA,2011,145,145,145,0,"Central African Republic, DR Congo (Zaire), Sudan","482, 490, 625",4,1.4-2015
+437,,Government of Ivory Coast,2011,277,275,443,1,Ivory Coast,437,4,1.4-2015
+1412,,FRCI,2011,49,49,49,0,Ivory Coast,437,4,1.4-2015
+2016,,AJPSN,2011,52,52,54,0,Ivory Coast,437,4,1.4-2015
+1578,,Al-Shabaab,2011,44,35,56,0,"Kenya, Somalia","501, 520",4,1.4-2015
+475,,Government of Nigeria,2011,35,34,91,1,Nigeria,475,4,1.4-2015
+1935,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2011,82,78,192,0,Nigeria,475,4,1.4-2015
+1336,,LRA,2012,64,64,65,0,"Central African Republic, DR Congo (Zaire), South Sudan","482, 490, 626",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2012,112,112,118,1,DR Congo (Zaire),490,4,1.4-2015
+1380,,FDLR,2012,187,183,227,0,DR Congo (Zaire),490,4,1.4-2015
+1961,,FRPI,2012,31,31,31,0,DR Congo (Zaire),490,4,1.4-2015
+2089,,Mayi Mayi Lumumba,2012,32,32,102,0,DR Congo (Zaire),490,4,1.4-2015
+2090,,Raia Mutomboki,2012,43,43,43,0,DR Congo (Zaire),490,4,1.4-2015
+549023,"2090, 4148","Mayi Mayi Kifuafua, Raia Mutomboki",2012,241,241,241,0,DR Congo (Zaire),490,4,1.4-2015
+530,,Government of Ethiopia,2012,88,88,97,1,Ethiopia,530,4,1.4-2015
+1578,,Al-Shabaab,2012,112,100,153,0,"Kenya, Somalia","501, 520",4,1.4-2015
+1935,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2012,459,279,515,0,Nigeria,475,4,1.4-2015
+1935,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2013,839,813,1025,0,"Cameroon, Nigeria","471, 475",4,1.4-2015
+482,,Government of Central African Republic,2013,1276,906,1693,1,Central African Republic,482,4,1.4-2015
+4007,,FPRC,2013,457,457,458,0,Central African Republic,482,4,1.4-2015
+4201,,anti-Balaka,2013,685,648,708,0,Central African Republic,482,4,1.4-2015
+1336,,LRA,2013,45,45,49,0,"Central African Republic, DR Congo (Zaire), South Sudan","482, 490, 626",4,1.4-2015
+490,,Government of DR Congo (Zaire) ,2013,48,39,48,1,DR Congo (Zaire),490,4,1.4-2015
+1337,,ADF,2013,83,83,83,0,DR Congo (Zaire),490,4,1.4-2015
+2045,,M23,2013,32,32,32,0,DR Congo (Zaire),490,4,1.4-2015
+3037,,NDC,2013,84,84,84,0,DR Congo (Zaire),490,4,1.4-2015
+3040,,Nyatura,2013,34,34,34,0,DR Congo (Zaire),490,4,1.4-2015
+3967,,Kata Katanga,2013,173,173,174,0,DR Congo (Zaire),490,4,1.4-2015
+1578,,Al-Shabaab,2013,185,145,209,0,"Kenya, Somalia","501, 520",4,1.4-2015
+1935,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2014,3783,3734,5049,0,"Cameroon, Chad, Nigeria","471, 475, 483",4,1.4-2015
+3554,,FPR - BL,2014,99,99,99,0,Central African Republic,482,4,1.4-2015
+4007,,FPRC,2014,615,607,652,0,Central African Republic,482,4,1.4-2015
+4201,,anti-Balaka,2014,933,884,978,0,Central African Republic,482,4,1.4-2015
+5999,,UPC,2014,28,28,28,0,Central African Republic,482,4,1.4-2015
+1336,,LRA,2014,37,37,38,0,"Central African Republic, DR Congo (Zaire)","482, 490",4,1.4-2015
+1578,,Al-Shabaab,2014,274,209,325,0,"Djibouti, Kenya, Somalia","501, 520, 522",4,1.4-2015
+1337,,ADF,2014,37,37,349,0,DR Congo (Zaire),490,4,1.4-2015
+475,,Government of Nigeria,2014,41,41,41,1,Nigeria,475,4,1.4-2015
