@@ -32,3 +32,8 @@ n <- dotplot(Definite ~ Year | RegionID,
         xlab = "Year")
 n
 dev.off()
+
+# Testing a theory
+x <- seq(0,20,0.001)
+plot(x,tanh(x),pch=".", col="red", ylab="y")
+points(x,(1 / (1 + exp(-x)))*2-1, pch=".",col="blue")

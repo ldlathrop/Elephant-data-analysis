@@ -1,3 +1,6 @@
+library(Zelig)
+library(mitools)
+library(lme4)
 library(MCMCglmm)
 library(blme)
 library(nlme)
@@ -7,7 +10,6 @@ zmargin <- theme(panel.margin=unit(0,"lines")) ## to squash facets together ...
 library(scales)        ## for squish()
 library(gridExtra)     ## for grid.arrange()
 library(proto)         ## for horizontal line range plot
-source("geom-linerangeh.R")  ## for horizontal line ranges
 library(coefplot2) ## coefficient plots
 library(coda)      ## MCMC diagnostics
 library(aods3)     ## overdispersion diagnostics
@@ -22,15 +24,14 @@ install.packages("coefplot2",repos="http://www.math.mcmaster.ca/bolker/R",
                       type="source")
 require(devtools)
 install_url("https://cran.r-project.org/src/contrib/Archive/scapeMCMC/scapeMCMC_1.1-3.tar.gz")
-names(coVars)
-model1 <- read.csv("outdata081.csv")
-model1$year <- as.factor(model1$year)
-mod1_lme <- lme(Diff.from.expected ~ year,
-                data=model1, method="REML",
-                random = ~ 1 + year | country, 
-                correlation=corAR1(form=~year|country),
-                weights=varFixed(~I(1/n)),
-                control=list(maxIter=10000, niterEM=10000))
-genMixModel1 <- bglmer(Diff.from.expected ~  (1 | country) + (1 | year),
-                      data = model1, family = gaussian(link = log),
-                      cov.prior = wishart, fixef.prior = normal)
+
+summary(a.coVarsTrans.more)
+
+str(a.coVarsTrans.more$imputations)
+
+## Zelig models
+## zelig(Y ~ X1 + X2, order=c(1,0,0), model = "arima", data = mydata)
+z1 <- zarima$new()
+z1$zelig(Diff.from.expected~HDI, order=c(1,0,1), model="arima",
+               data = a.coVarsTrans.more, ts="year", cs="country")
+

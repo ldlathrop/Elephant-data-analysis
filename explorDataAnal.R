@@ -370,3 +370,244 @@ ggplot(coVarsPopSumm, aes(x=as.numeric(GNI_mu), y=reorder(country, as.numeric(GN
         panel.grid.minor.x = element_blank(),
         panel.grid.major.y = element_line(colour="grey60", linetype="dashed"))
 
+
+### EXPLORE IMPUTED DATASETS
+names(model1)
+model1 <- read.csv("outdata081.csv")
+model2 <- read.csv("outdata082.csv")
+model3 <- read.csv("outdata083.csv")
+model4 <- read.csv("outdata084.csv")
+model5 <- read.csv("outdata085.csv")
+
+quartz()
+library(plyr)
+m1GNI <- ddply(model1, "country", transform, trGNI = GNI-mean(GNI))
+ggplot(m1GNI, aes(x=country, y=trGNI)) +
+  geom_tufteboxplot() +
+  ggtitle("GNI by Country (Model1)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m2GNI <- ddply(model2, "country", transform, trGNI = GNI-mean(GNI))
+ggplot(m2GNI, aes(x=country, y=trGNI)) +
+  geom_tufteboxplot() +
+  ggtitle("GNI by Country (Model2)") +
+theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m3GNI <- ddply(model3, "country", transform, trGNI = GNI-mean(GNI))
+ggplot(m3GNI, aes(x=country, y=trGNI)) +
+  geom_tufteboxplot() +
+  ggtitle("GNI by Country (Model3)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m4GNI <- ddply(model4, "country", transform, trGNI = GNI-mean(GNI))
+ggplot(m4GNI, aes(x=country, y=trGNI)) +
+  geom_tufteboxplot() +
+  ggtitle("GNI by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m5GNI <- ddply(model5, "country", transform, trGNI = GNI-mean(GNI))
+ggplot(m5GNI, aes(x=country, y=trGNI)) +
+  geom_tufteboxplot() +
+  ggtitle("GNI by Country (Model5)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
+
+m1GNI <- ddply(model1, "country", transform, trHDI = HDI-mean(HDI))
+ggplot(m1GNI, aes(x=country, y=trHDI)) +
+  geom_tufteboxplot() +
+  ggtitle("HDI by Country (Model1)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m2GNI <- ddply(model2, "country", transform, trHDI = HDI-mean(HDI))
+ggplot(m2GNI, aes(x=country, y=trHDI)) +
+  geom_tufteboxplot() +
+  ggtitle("HDI by Country (Model2)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m3GNI <- ddply(model3, "country", transform, trHDI = HDI-mean(HDI))
+ggplot(m3GNI, aes(x=country, y=trHDI)) +
+  geom_tufteboxplot() +
+  ggtitle("HDI by Country (Model3)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m4GNI <- ddply(model4, "country", transform, trHDI = HDI-mean(HDI))
+ggplot(m4GNI, aes(x=country, y=trHDI)) +
+  geom_tufteboxplot() +
+  ggtitle("HDI by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m5GNI <- ddply(model5, "country", transform, trHDI = HDI-mean(HDI))
+ggplot(m5GNI, aes(x=country, y=trHDI)) +
+  geom_tufteboxplot() +
+  ggtitle("HDI by Country (Model5)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
+names(m1GNI)
+
+m1GNI <- ddply(m1GNI, "country", transform, trMean.Schooling = Mean.Schooling-median(Mean.Schooling))
+ggplot(m1GNI, aes(x=country, y=trMean.Schooling)) +
+  geom_tufteboxplot() +
+  ggtitle("Mean.Schooling by Country (Model1)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m2GNI <- ddply(m2GNI, "country", transform, trMean.Schooling = Mean.Schooling-median(Mean.Schooling))
+ggplot(m2GNI, aes(x=country, y=trMean.Schooling)) +
+  geom_tufteboxplot() +
+  ggtitle("Mean.Schooling by Country (Model2)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m3GNI <- ddply(m3GNI, "country", transform, trMean.Schooling = Mean.Schooling-median(Mean.Schooling))
+ggplot(m3GNI, aes(x=country, y=trMean.Schooling)) +
+  geom_tufteboxplot() +
+  ggtitle("Mean.Schooling by Country (Model3)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m4GNI <- ddply(m4GNI, "country", transform, trMean.Schooling = Mean.Schooling-median(Mean.Schooling))
+ggplot(m4GNI, aes(x=country, y=trMean.Schooling)) +
+  geom_tufteboxplot() +
+  ggtitle("Mean.Schooling by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m5GNI <- ddply(m5GNI, "country", transform, trMean.Schooling = Mean.Schooling-median(Mean.Schooling))
+ggplot(m5GNI, aes(x=country, y=trMean.Schooling)) +
+  geom_tufteboxplot() +
+  ggtitle("Mean.Schooling by Country (Model5)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
+
+m1GNI <- ddply(m1GNI, "country", transform, trResource.Depletion = Resource.Depletion-mean(Resource.Depletion))
+ggplot(m1GNI, aes(x=country, y=trResource.Depletion)) +
+  geom_tufteboxplot() +
+  ggtitle("Resource.Depletion by Country (Model1)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m2GNI <- ddply(m2GNI, "country", transform, trResource.Depletion = Resource.Depletion-mean(Resource.Depletion))
+ggplot(m2GNI, aes(x=country, y=trResource.Depletion)) +
+  geom_tufteboxplot() +
+  ggtitle("Resource.Depletion by Country (Model2)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m3GNI <- ddply(m3GNI, "country", transform, trResource.Depletion = Resource.Depletion-mean(Resource.Depletion))
+ggplot(m3GNI, aes(x=country, y=trResource.Depletion)) +
+  geom_tufteboxplot() +
+  ggtitle("Resource.Depletion by Country (Model3)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m4GNI <- ddply(m4GNI, "country", transform, trResource.Depletion = Resource.Depletion-mean(Resource.Depletion))
+ggplot(m4GNI, aes(x=country, y=trResource.Depletion)) +
+  geom_tufteboxplot() +
+  ggtitle("Resource.Depletion by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m5GNI <- ddply(m5GNI, "country", transform, trResource.Depletion = Resource.Depletion-mean(Resource.Depletion))
+ggplot(m5GNI, aes(x=country, y=trResource.Depletion)) +
+  geom_tufteboxplot() +
+  ggtitle("Resource.Depletion by Country (Model5)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
+
+m1GNI <- ddply(m1GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m1GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model1)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m2GNI <- ddply(m2GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m2GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model2)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m3GNI <- ddply(m3GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m3GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model3)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m4GNI <- ddply(m4GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m4GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m5GNI <- ddply(m5GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m5GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model5)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
+
+m1GNI <- ddply(m1GNI, "country", transform, trDiff.from.expected = Diff.from.expected-mean(Diff.from.expected))
+ggplot(m1GNI, aes(x=country, y=Diff.from.expected)) +
+  geom_tufteboxplot() +
+  ggtitle("Diff.from.expected by Country (Model1)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m2GNI <- ddply(m2GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m2GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model2)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m3GNI <- ddply(m3GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m3GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model3)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m4GNI <- ddply(m4GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m4GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+m5GNI <- ddply(m5GNI, "country", transform, trCorruption.Perception.Index = Corruption.Perception.Index-mean(Corruption.Perception.Index))
+ggplot(m5GNI, aes(x=country, y=trCorruption.Perception.Index)) +
+  geom_tufteboxplot() +
+  ggtitle("Corruption.Perception.Index by Country (Model5)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
+m4GNI <- ddply(m4GNI, "country", transform, trPop.Below.National.Poverty = Pop.Below.National.Poverty-mean(Pop.Below.National.Poverty))
+ggplot(m4GNI, aes(x=country, y=trPop.Below.National.Poverty)) +
+  geom_tufteboxplot() +
+  ggtitle("Pop.Below.National.Poverty by Country (Model4)") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle=30, hjust=1, vjust=1, size = rel(0.8)),
+        axis.title.x=element_blank())
+
